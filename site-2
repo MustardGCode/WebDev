@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Renee's Website</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="icon" href="favicon.ico">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Sacramento&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div class="top-container">
+      <img class="top-cloud"src="images/cloud.png" alt="cloud-img">
+      <h1>I'm Renee.</h1>
+      <p><h2>A <span class="full">full</span>stack developer</h2></p>
+      <img class="bottom-cloud"src="images/cloud.png" alt="cloud-img">
+      <img src="images/mountain.png" alt="mountain-img">
+    </div>
+    <div class="middle-container">
+      <div class="profile">
+        <img src="https://media-exp1.licdn.com/dms/image/C4E03AQE1OoiYAylXYg/profile-displayphoto-shrink_400_400/0/1604767000921?e=1613606400&v=beta&t=uD_CVpmXTcNPdBLjJ5nk8aVqKG-1BaC5RYHLCGv3CFQ" alt=“Renee profile picture">
+        <h2>Hello.</h2>
+        <p class="intro">Hello! I’m currently studying to become a Full Stack Developer</p>
+      </div>
+      <hr>
+      <div class="skills">
+        <h2>My Skills.</h2>
+        <div class="skill-row">
+          <img class="purple-owl" src="images/owl.png" alt="owl-img">
+          <h3>Full Stack Developer</h3>
+          <p>I'm an experienced medical professional, also with a background in business. My coincidental experience in business broadened my perspective on the possibility of finding fulfillment in unexplored areas. I dabbled in code while building several websites of my own, but lacked the knowledge to fully design as I wished. Despite it, I became obsessed with the process, sacrificed countless hours developing, & wanted to dive deeper.</p>
+        </div>
+        <div class="skill-row">
+          <img class="" src="" alt="">
+          <iframe src="https://giphy.com/embed/XgBKFq1OmPyC89XhNB" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wetv-reality-tv-soul-food-hustle-and-XgBKFq1OmPyC89XhNB">via GIPHY</a></p>
+          <h3>Excuse My Hustle</h3>
+          <p>I'm working really hard. Working really hard. Really hard. hard. I'm working really hard. Working really hard. Really hard. hard.</p>
+        </div>
+      </div>
+      <hr>
+      <div class="">
+      </div>
+        <h2>Get In Touch</h2>
+        <p class="contact-message"></p>
+        <a class="btn" href="mailto:mustgcode@ymail.com">CONTACT ME</a>
+        <br>
+        <br>
+        <h6>Snack Time = Apples, Peanut Butter, & Granola</h6>
+      </div>
+    </div>
+
+
+    <div class="bottom-container">
+      <a href="#" class="BUTTON_CSA"></a>
+      <a class="footer-link" href="https://www.linkedin.com/in/renee-daniels-27452a35/">LinkedIn</a>
+      <a class="footer-link" href="https://twitter.com/MustardGCode">Twitter</a>
+      <a class="footer-link" href="https://twitter.com/MustardGCode">Website</a>
+      <p class="copyright"> © 2020 Renee D. </p>
+    </div>
+    </div>
+
+  </body>
+</html>
